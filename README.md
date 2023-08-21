@@ -3,4 +3,4 @@
 |--|--|--|
 |**a**|_b_|~~c~~|
 
-This is using [my github today](https://github.com)
+This is using [Github pages](https://github.com)
